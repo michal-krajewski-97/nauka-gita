@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.song h1 {
+    color: red;
+}
+.song h3 {
+    font-style: oblique;
+}
