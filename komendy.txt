@@ -1,1 +1,1 @@
-https://html-validate.org/rules/no-trailing-whitespace.html
+html-validate *html
